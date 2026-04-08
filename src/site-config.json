@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "2Go Fences",
+    "phone": "+18135373934",
+    "category": "fence company",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa's Trusted Fence Experts",
+      "heroSubline": "Durable fences built to withstand Florida's toughest weather. Protecting your property with quality craftsmanship and unwavering commitment.",
+      "aboutTitle": "Built on Integrity, Fortified by Experience",
+      "aboutText": [
+        "2Go Fences started with a simple mission: to provide Tampa Bay residents with reliable, long-lasting fences. We saw a need for a fence company that prioritized quality materials and expert installation, especially given Florida's harsh climate.",
+        "Our approach is straightforward: meticulous planning, precision execution, and transparent communication. We treat every project as if it were for our own homes, using only the best materials and proven techniques to ensure lasting results.",
+        "We're deeply rooted in the Tampa community. From sponsoring local youth sports teams to partnering with neighborhood associations, we're committed to giving back and building stronger, more secure communities."
+      ],
+      "valueProps": [
+        {
+          "title": "Hurricane-Resistant Designs",
+          "description": "Engineered to withstand high winds and heavy rain, keeping your property safe during storm season."
+        },
+        {
+          "title": "Saltwater Corrosion Protection",
+          "description": "Specialized treatments and materials to resist the damaging effects of saltwater, ideal for coastal properties."
+        },
+        {
+          "title": "Custom Fence Solutions",
+          "description": "Tailored designs to match your property's unique style and needs, from classic picket fences to modern privacy walls."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise installation for maximum durability and longevity, backed by our satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today!",
+      "ctaSubline": "Get a free, no-obligation quote for your fence project."
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic beauty and natural charm with durable, pressure-treated wood.",
+        "description": "Wood fences offer timeless appeal and can be customized to complement any Tampa home. We use only pressure-treated lumber that resists rot, insects, and Florida's humidity. Our wood fences are built to last, providing privacy and security for years to come. Choose from a variety of styles, including picket fences, privacy fences, and post-and-rail fences. We handle everything from initial design to final installation, ensuring a seamless and stress-free experience. Proper staining and sealing are crucial for wood fences in Florida. We offer expert staining and sealing services to protect your investment from the elements. \n\nWe understand the unique challenges of wood fences in the Tampa Bay area. Our experienced team knows how to properly install and maintain wood fences to maximize their lifespan. We can advise on the best wood types and treatments for your specific needs and budget. We also offer repair services for existing wood fences, addressing issues like rot, warping, and storm damage. Whether you're looking for a traditional look or a more modern design, we can create a wood fence that enhances your property's value and curb appeal.",
+        "process": [
+          "Step 1: Site evaluation and design consultation",
+          "Step 2: Material selection and permitting (if required)",
+          "Step 3: Precise post setting and framing",
+          "Step 4: Careful installation of pickets or panels"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Natural aesthetic",
+          "Cost-effective fencing solution",
+          "Customizable styles and heights"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Tampa?",
+            "answer": "With proper treatment and maintenance, a pressure-treated wood fence can last 15-20 years in the Tampa climate."
+          },
+          {
+            "question": "Do I need a permit for a wood fence?",
+            "answer": "Permit requirements vary depending on your location and fence height. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "What type of wood is best for fences in Florida?",
+            "answer": "Pressure-treated pine is a popular and durable choice for wood fences in Florida due to its resistance to rot and insects."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance and durable fencing that stands up to Florida's weather.",
+        "description": "Vinyl fences are an excellent choice for homeowners in Tampa looking for a durable, low-maintenance fencing solution. Unlike wood, vinyl won't rot, warp, or splinter, and it never needs painting or staining. Our vinyl fences are made from high-quality materials that are designed to withstand Florida's harsh sun and humidity. They're also resistant to termites and other pests. We offer a wide variety of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences. \n\nVinyl fencing is ideal for Tampa's coastal environment, resisting salt air corrosion that can degrade other materials. We use UV-resistant vinyl that won't fade or discolor over time, ensuring your fence looks great for years to come. Our experienced installers ensure proper installation for maximum stability and longevity. We also offer a warranty on all our vinyl fences, giving you peace of mind. Whether you're looking for privacy, security, or simply a beautiful fence to enhance your property, vinyl fencing is a smart and cost-effective choice.",
+        "process": [
+          "Step 1: Precise measurements and layout",
+          "Step 2: Post installation with concrete footings",
+          "Step 3: Rail and picket assembly",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Minimal maintenance required",
+          "Resistant to rot, insects, and weathering",
+          "Long-lasting durability",
+          "Variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A properly installed vinyl fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fences are made with UV-resistant materials to prevent fading and discoloration."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Vinyl is recyclable and requires less energy to produce than some other fencing materials."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fences",
+        "name": "Aluminum Fences",
+        "shortDescription": "Elegant and secure fencing that adds value to your Tampa property.",
+        "description": "Aluminum fences offer a combination of beauty, security, and low maintenance, making them a popular choice for Tampa homeowners. They provide a classic wrought-iron look without the high cost and maintenance requirements. Our aluminum fences are powder-coated for superior durability and corrosion resistance, making them ideal for Florida's coastal environment. We offer a variety of styles, including ornamental fences, pool fences, and security fences. \n\nAluminum fences are a great way to enhance your property's curb appeal while providing security and peace of mind. They're also a safe choice for pool enclosures, meeting all safety codes and regulations. Our experienced installers ensure precise installation for a flawless finish. We also offer a warranty on all our aluminum fences. Whether you're looking to add a touch of elegance to your property or create a secure perimeter, aluminum fencing is an excellent choice.",
+        "process": [
+          "Step 1: Site assessment and design planning",
+          "Step 2: Post placement and concrete setting",
+          "Step 3: Panel assembly and attachment",
+          "Step 4: Gate installation and hardware adjustments"
+        ],
+        "benefits": [
+          "Adds elegance and value to your property",
+          "Low-maintenance and rust-resistant",
+          "Provides security and safety",
+          "Variety of styles and colors available"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough for security?",
+            "answer": "Our aluminum fences are made with high-strength alloys and designed to provide a strong deterrent to intruders."
+          },
+          {
+            "question": "Do aluminum fences rust?",
+            "answer": "No, aluminum fences are naturally rust-resistant and powder-coated for added protection."
+          },
+          {
+            "question": "Can I customize the style of my aluminum fence?",
+            "answer": "Yes, we offer a wide variety of styles, colors, and heights to customize your aluminum fence to your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable and practical fencing for security and containment.",
+        "description": "Chain link fences are a cost-effective and practical solution for a variety of applications in Tampa. They provide security, containment, and clear visibility. Our chain link fences are made from galvanized steel for superior strength and corrosion resistance, making them ideal for Florida's humid climate. We offer a variety of heights and gauges to meet your specific needs. Chain link fences are a popular choice for residential, commercial, and industrial properties. \n\nChain link fencing is a great option for pet enclosures, property boundaries, and security perimeters. We offer both standard and vinyl-coated chain link fences for added protection and aesthetics. Our experienced installers ensure proper tension and alignment for a long-lasting and secure fence. We also offer gate installation and repair services. Whether you need to secure your property or contain your pets, chain link fencing is a reliable and affordable choice.",
+        "process": [
+          "Step 1: Site preparation and post hole digging",
+          "Step 2: Post setting and concrete reinforcement",
+          "Step 3: Mesh installation and tensioning",
+          "Step 4: Gate installation and hardware fitting"
+        ],
+        "benefits": [
+          "Affordable fencing solution",
+          "Provides security and containment",
+          "Durable and low-maintenance",
+          "Variety of heights and gauges available"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last?",
+            "answer": "A galvanized steel chain link fence can last 20-30 years with minimal maintenance."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats that can be easily installed into a chain link fence."
+          },
+          {
+            "question": "What is the difference between galvanized and vinyl-coated chain link?",
+            "answer": "Galvanized chain link is coated with zinc for corrosion resistance, while vinyl-coated chain link has an added layer of colored vinyl for enhanced protection and aesthetics."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Expert fence repair services to restore your fence's integrity and appearance.",
+        "description": "Florida's weather can take a toll on any fence. 2Go Fences offers comprehensive fence repair services to keep your fence in top condition. From storm damage to rot and wear, we can fix it all. We service all fence types: wood, vinyl, aluminum, and chain link. Our experienced technicians will assess the damage and provide a cost-effective solution. We use high-quality materials to ensure lasting repairs. \n\nWe understand the importance of a secure and well-maintained fence. Our repair services include post replacement, panel repair, gate adjustments, and hardware replacement. We also offer staining and sealing services to protect wood fences from the elements. Don't let a damaged fence compromise your property's security and curb appeal. Contact us today for a free estimate on your fence repair needs.",
+        "process": [
+          "Step 1: Thorough inspection and damage assessment",
+          "Step 2: Material procurement and preparation",
+          "Step 3: Precise repair and replacement of damaged sections",
+          "Step 4: Final inspection and cleanup"
+        ],
+        "benefits": [
+          "Restores fence integrity and appearance",
+          "Extends the life of your fence",
+          "Prevents further damage",
+          "Cost-effective alternative to fence replacement"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs of fence damage include leaning posts, broken panels, loose gates, and rot or corrosion."
+          },
+          {
+            "question": "Can you repair a fence after a hurricane?",
+            "answer": "Yes, we specialize in repairing fences damaged by hurricanes and other severe weather events."
+          },
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair varies depending on the extent of the damage and the type of fence. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation",
+        "name": "Gate Installation",
+        "shortDescription": "Secure and stylish gate installations for residential and commercial properties.",
+        "description": "A properly installed gate is essential for security, convenience, and curb appeal. 2Go Fences offers professional gate installation services for all types of fences. We install a wide variety of gates, including swing gates, slide gates, and automatic gates. Our experienced installers ensure precise alignment and smooth operation. We use high-quality hardware and materials for lasting durability. \n\nWhether you need a simple pedestrian gate or a sophisticated automatic gate system, we can handle it all. We offer custom gate designs to match your fence style and property aesthetic. Our gate installation services include gate operator installation, access control systems, and safety features. We also offer gate repair and maintenance services. Contact us today for a free consultation on your gate installation needs.",
+        "process": [
+          "Step 1: Site evaluation and gate selection",
+          "Step 2: Post installation and gate frame construction",
+          "Step 3: Gate hardware installation and alignment",
+          "Step 4: Testing and final adjustments"
+        ],
+        "benefits": [
+          "Enhanced security and access control",
+          "Increased property value and curb appeal",
+          "Convenient and reliable operation",
+          "Customizable designs and features"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your needs, budget, and property layout. We can help you choose the right gate for your specific requirements."
+          },
+          {
+            "question": "Do I need a permit for a gate installation?",
+            "answer": "Permit requirements vary depending on your location and gate type. We can help you determine if a permit is needed and assist with the application process."
+          },
+          {
+            "question": "Can you install an automatic gate?",
+            "answer": "Yes, we specialize in automatic gate installation and repair services."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Petersburg",
+        "slug": "st-petersburg-fl",
+        "state": "FL",
+        "content": "2Go Fences is proud to offer our expert fence installation and repair services to the residents of St. Petersburg, Florida. We understand the unique charm and character of St. Pete, from its vibrant downtown to its historic neighborhoods filled with 1920s-1950s Florida cottage homes. Our team is experienced in working with a variety of fence styles to complement the architectural styles found throughout the city. \n\nWe know that St. Petersburg's hot, humid summers and occasional severe weather require a durable, high-quality fence. That's why we use only the best materials and construction techniques to ensure your fence can withstand the elements and provide lasting security and beauty for your property. Whether you need a privacy fence, a decorative picket fence, or a sturdy chain-link fence, 2Go Fences is here to serve you.",
+        "localContext": "St. Petersburg, known for its arts scene and waterfront views, features many charming older homes that benefit from well-maintained and aesthetically pleasing fences.",
+        "nearbyAreas": [
+          "Tampa",
+          "Clearwater",
+          "Gulfport"
+        ]
+      },
+      {
+        "city": "Clearwater",
+        "slug": "clearwater-fl",
+        "state": "FL",
+        "content": "2Go Fences is dedicated to providing top-notch fence services to homeowners and businesses in Clearwater, Florida. We appreciate the diverse community and the prevalence of 1960s and 1970s-era ranch homes that define much of Clearwater's residential landscape. Our team is skilled in installing and repairing fences that enhance the curb appeal and security of these classic homes.\n\nClearwater's climate, with its hot, humid summers and potential for hurricanes, demands fences that are built to last. 2Go Fences uses weather-resistant materials and proven construction methods to ensure your fence can withstand the challenges of the Florida climate. We offer a wide range of fence styles, from wood and vinyl to aluminum and chain-link, to meet your specific needs and preferences.",
+        "localContext": "Clearwater, famed for its beautiful beaches and family-friendly atmosphere, often sees demand for fences that provide privacy and security for homes and businesses alike.",
+        "nearbyAreas": [
+          "Dunedin",
+          "Palm Harbor",
+          "Safety Harbor"
+        ]
+      },
+      {
+        "city": "Brandon",
+        "slug": "brandon-fl",
+        "state": "FL",
+        "content": "2Go Fences is proud to serve the growing community of Brandon, Florida, with our comprehensive fence installation and repair services. We understand the character of Brandon, with its many 1980s and 1990s suburban developments. We provide fence solutions that meet the needs of homeowners in these neighborhoods, from privacy fences to decorative accents.\n\nGiven Brandon's location and climate, a durable and reliable fence is essential. 2Go Fences uses high-quality materials and expert craftsmanship to ensure your fence can withstand the hot, humid summers and occasional storms that are common in the area. We offer a variety of fence styles and materials to complement your home and provide the security and privacy you desire.",
+        "localContext": "Brandon, a bustling suburb of Tampa, features many family homes that benefit from fences providing security for children and pets.",
+        "nearbyAreas": [
+          "Riverview",
+          "Valrico",
+          "Seffner"
+        ]
+      },
+      {
+        "city": "Wesley Chapel",
+        "slug": "wesley-chapel-fl",
+        "state": "FL",
+        "content": "2Go Fences is delighted to offer our professional fence services to the residents of Wesley Chapel, Florida. We recognize the unique characteristics of Wesley Chapel, with its focus on newer master-planned communities built between the 2000s and 2020s. Our team is experienced in working with the architectural styles and homeowner association guidelines common in these communities.\n\nWesley Chapel's climate, characterized by hot, humid summers, requires fences that are both durable and aesthetically pleasing. 2Go Fences uses premium materials and expert installation techniques to ensure your fence will stand the test of time. We offer a wide selection of fence styles, from classic wood fences to low-maintenance vinyl fences, to enhance the beauty and security of your property.",
+        "localContext": "Wesley Chapel, known for its master-planned communities and family-oriented lifestyle, relies on fences to define property lines and provide security within neighborhoods.",
+        "nearbyAreas": [
+          "Lutz",
+          "Land O' Lakes",
+          "Zephyrhills"
+        ]
+      },
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "2Go Fences is your trusted local fence company in Tampa, Florida. We provide comprehensive fence installation and repair services to homeowners and businesses throughout the Tampa Bay area. We understand Tampa's diverse architecture and neighborhoods, and we offer a wide range of fence styles to complement any property. \n\nTampa's hot and humid climate demands durable and weather-resistant fences. 2Go Fences uses only the highest quality materials and expert installation techniques to ensure your fence will withstand the elements and provide lasting beauty and security. Whether you need a privacy fence, a decorative fence, or a security fence, we have the perfect solution for you.",
+        "localContext": "Tampa, a vibrant city with a mix of modern and historic architecture, depends on fences to enhance property values and provide security for its residents.",
+        "nearbyAreas": [
+          "Brandon",
+          "St. Petersburg",
+          "Clearwater"
+        ]
+      },
+      {
+        "city": "Riverview",
+        "slug": "riverview-fl",
+        "state": "FL",
+        "content": "2Go Fences is dedicated to providing Riverview, Florida with reliable fence solutions. Understanding the needs of this growing community, we offer a wide array of fencing options suitable for various property styles. Our team is adept at installing fences that enhance security and privacy for Riverview homes. \n\nGiven Riverview's climate, with its hot, humid summers and occasional storms, we prioritize durability and weather resistance in our fence installations. We ensure that every fence we install can withstand the elements, providing long-lasting protection and peace of mind for our customers. Whether you are looking for wood, vinyl, or metal fencing, 2Go Fences is here to help.",
+        "localContext": "Riverview, a rapidly expanding residential area, sees a high demand for privacy fences and boundary markers to define properties.",
+        "nearbyAreas": [
+          "Brandon",
+          "Apollo Beach",
+          "Gibsonton"
+        ]
+      },
+      {
+        "city": "Valrico",
+        "slug": "valrico-fl",
+        "state": "FL",
+        "content": "2Go Fences is proud to offer our professional fencing services to the residents of Valrico, Florida. We understand the specific needs of this community, known for its well-maintained homes and family-friendly environment. Our team is experienced in installing and repairing a wide variety of fence styles to suit any property.\n\nValrico's climate, characterized by hot, humid summers and occasional severe weather, requires durable and weather-resistant fences. 2Go Fences uses only the highest quality materials and proven construction techniques to ensure your fence will last for years to come. Whether you need a privacy fence, a decorative fence, or a security fence, we have the perfect solution for your Valrico home.",
+        "localContext": "Valrico, a suburban community with a focus on family living, relies on fences for security, privacy, and to define property boundaries.",
+        "nearbyAreas": [
+          "Brandon",
+          "Lithia",
+          "Seffner"
+        ]
+      },
+      {
+        "city": "Land O' Lakes",
+        "slug": "land-o-lakes-fl",
+        "state": "FL",
+        "content": "2Go Fences is pleased to provide fencing services to Land O' Lakes, Florida. We recognize the unique character of this area, with its mix of established neighborhoods and newer developments. Our team is skilled in installing and repairing fences that meet the needs of homeowners throughout Land O' Lakes.\n\nLand O' Lakes' climate, featuring hot, humid summers and occasional storms, calls for fences built to withstand the elements. 2Go Fences utilizes weather-resistant materials and expert installation techniques to ensure your fence will last. We offer a variety of fence styles, from classic wood to durable vinyl, to enhance your property's curb appeal and security.",
+        "localContext": "Land O' Lakes, a growing suburban area with numerous lakes and conservation areas, benefits from fences that provide security and define property lines while blending with the natural landscape.",
+        "nearbyAreas": [
+          "Lutz",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Lutz",
+        "slug": "lutz-fl",
+        "state": "FL",
+        "content": "2Go Fences is dedicated to providing quality fence solutions to the residents of Lutz, Florida. We understand the community's desire for both aesthetic appeal and practical functionality. Our team is experienced in installing a variety of fence styles to complement the diverse architectural styles found in Lutz.\n\nThe climate in Lutz, with its hot, humid summers and occasional heavy rains, demands fences that are built to last. 2Go Fences uses weather-resistant materials and proven construction methods to ensure your fence can withstand the elements. Whether you need a privacy fence, a decorative fence, or a security fence, we have the perfect solution for your Lutz property.",
+        "localContext": "Lutz, a semi-rural community with a mix of older homes and newer developments, often utilizes fences to define property lines and provide privacy.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Palm Harbor",
+        "slug": "palm-harbor-fl",
+        "state": "FL",
+        "content": "2Go Fences is proud to offer top-notch fencing services to homeowners and businesses in Palm Harbor, Florida. We're familiar with the diverse properties and landscape of Palm Harbor and provide tailored fencing solutions to meet every need. From enhancing curb appeal to increasing security, our team is equipped to handle any fencing project.\n\nThe humid, hot summers in Palm Harbor require durable and weather-resistant fencing. 2Go Fences uses only the best materials and construction techniques to ensure your fence can withstand the Florida climate. We offer a variety of fencing options, including wood, vinyl, aluminum, and chain-link, to suit your style and budget.",
+        "localContext": "Palm Harbor, known for its golf courses and coastal living, benefits from fences that enhance property aesthetics and provide security against the elements.",
+        "nearbyAreas": [
+          "Clearwater",
+          "Dunedin",
+          "Tarpon Springs"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "2Go Fences did an amazing job installing our new wood privacy fence in South Tampa. The crew was professional, efficient, and the fence looks fantastic! They even helped us navigate the permitting process. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "Our chain link fence was damaged in a recent storm, and 2Go Fences came out quickly to repair it. They did a great job at a fair price. Thanks!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We absolutely love our new vinyl fence! 2Go Fences helped us choose the perfect style and color to complement our home in Seminole Heights. The installation was smooth and the fence is beautiful.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Aluminum Fence Installation",
+        "text": "2Go Fences installed an aluminum fence around our pool, and it looks great! They were very professional and knowledgeable, and the fence meets all the safety requirements. Highly recommend!",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "I had a section of my wood fence that was rotting. 2Go Fences came out and replaced the damaged section quickly and efficiently. Great service!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Gate Installation",
+        "text": "We had 2Go Fences install an automatic gate for our business. The installation was perfect, and the gate works flawlessly. Great job!",
+        "date": "2024-10-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "2Go Fences | Tampa FL Fence Company",
+        "description": "Tampa's leading fence company. Expert fence installation and repair services. Wood, vinyl, aluminum, chain link. Free quotes!"
+      },
+      "about": {
+        "title": "About 2Go Fences | Tampa FL Fence Contractor",
+        "description": "Learn about 2Go Fences in Tampa FL. Our commitment to quality fence installation, customer satisfaction, and community involvement."
+      },
+      "services": {
+        "title": "Fence Services | 2Go Fences | Tampa FL",
+        "description": "2Go Fences Tampa: Wood, vinyl, aluminum, chain link fence installation and repair. Serving Tampa Bay area. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact 2Go Fences | Tampa FL",
+        "description": "Contact 2Go Fences for fence installation and repair services in Tampa FL. Call us today for a free estimate!"
+      },
+      "reviews": {
+        "title": "2Go Fences Reviews | Tampa FL",
+        "description": "Read reviews from satisfied customers of 2Go Fences in Tampa FL. See why we're the top choice for fence installation and repair."
+      },
+      "service-areas": {
+        "title": "Service Areas | 2Go Fences | Tampa FL",
+        "description": "2Go Fences service areas in Tampa FL and surrounding cities. Quality fence installation and repair for your home or business."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "aluminum-fences": "/images/service-aluminum-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation": "/images/service-gate-installation.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fences": {
+        "src": "/images/service-aluminum-fences.webp",
+        "srcset": "/images/service-aluminum-fences-400w.webp 400w, /images/service-aluminum-fences-800w.webp 800w, /images/service-aluminum-fences-1200w.webp 1200w, /images/service-aluminum-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation": {
+        "src": "/images/service-gate-installation.webp",
+        "srcset": "/images/service-gate-installation-400w.webp 400w, /images/service-gate-installation-800w.webp 800w, /images/service-gate-installation-1200w.webp 1200w, /images/service-gate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
